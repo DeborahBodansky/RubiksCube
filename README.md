@@ -1,8 +1,8 @@
-#How to build this Rubik's cube game
+# How to build this Rubik's cube game
 
 Simply run 'make' within this directory. This will construct the 'main' executable.
 
-#How to play this Rubik's cube game
+# How to play this Rubik's cube game
 
 Run the 'main' executable with the command './main'. You should see a representation of a Rubik's cube in its initial (solved) configuration.
 
